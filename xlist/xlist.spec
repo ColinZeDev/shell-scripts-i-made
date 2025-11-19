@@ -4,7 +4,7 @@ Release:        1%{?dist}
 Summary:        An enhanced ls command
 
 License:        MIT
-URL:            https://github.com/ColinZeDev/xlist
+URL:            https://github.com/ColinZeDev/shell-scripts-i-made/tree/main/xlist
 Source0:        xlist.sh
 
 BuildArch:      noarch
